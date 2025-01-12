@@ -17,6 +17,7 @@
 import os
 from functools import lru_cache
 from pathlib import Path
+import pandas
 
 import sherpa_onnx
 from huggingface_hub import hf_hub_download
