@@ -23,6 +23,7 @@ import os
 import time
 import uuid
 from datetime import datetime
+import matplotlib
 
 import gradio as gr
 import soundfile as sf
